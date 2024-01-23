@@ -9,7 +9,7 @@ Display intro message to user
 Ask the user to select the investment or bond pathway.
 Get user to select either investment or bond
 User needs to select either the Investment or Bond calculator. 
-Remove the case sensitivity from the user option, the user can proceed if the word is correc
+Remove the case sensitivity from the user option, the user can proceed if the word is correct
 
 PART 2
 
